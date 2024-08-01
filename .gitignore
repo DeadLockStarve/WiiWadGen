@@ -1,4 +1,4 @@
-keys/*
-tools/*
-dest/*
+dest/
+tmp/
+utils/keys/
 .DS_Store

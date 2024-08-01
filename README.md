@@ -41,7 +41,9 @@ Just cd in your preferred directory then do
 
     wiiwadgen.sh forwarder -r 'path/to/your/file.wbfs' -l WiiFlow
 
-A wad file ready for installation will be generated in `dest/` folder in your current directory. Other options are explained in the help message by doing `wiiwadgen.sh forwarder -h`
+A wad file ready for installation will be generated in `dest/` folder in your current directory. Other options are explained in the help message by doing
+
+    wiiwadgen.sh forwarder -h
 
 **WARNING!! Like on WiiGSC, only install .wads if you have a brick-safe Wii (with BootMii / Priiloader installed) - is know that forwarders for some games could brick your Wii, so is HEAVILY RECOMMENDED to make an backup of your NAND before any install.**
 
